@@ -133,3 +133,4 @@ dmypy.json
 data/
 *.csv
 diccionario*/
+*.jpeg
